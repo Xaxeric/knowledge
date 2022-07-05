@@ -5,3 +5,4 @@
  - https://wallpapercave.com
  - https://wallpaperaccess.com
  - https://wallpaperscraft.com
+ - https://wallhaven.cc
