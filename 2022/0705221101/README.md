@@ -1,6 +1,6 @@
 # How to get terminal width and heigth size in bash ?
 
-To get terminal size can be done by using environment variable `COLUMNS` or `tput` command like this:
+To get terminal size can be done by using environment variable or `tput` command:
 
 ```bash
 tput cols # Get terminal width
