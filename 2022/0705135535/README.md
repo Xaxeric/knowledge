@@ -4,4 +4,5 @@ I'm created this repository highly inspired by *[rwxrob](https://github.com/rwxr
 
 ## Reference 
 - https://luhmann.surge.sh
+- https://niklas-luhmann-archiv.de/nachlass/zettelkasten
 - https://github.com/rwxrob/zet/blob/main/20210502004642/README.md
